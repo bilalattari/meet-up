@@ -1,0 +1,25 @@
+
+
+body{
+background-color:black; 
+}
+
+.container{
+    margin: 0;
+    height: 100%;
+    font-weight: 400;
+    line-height: 1.5;
+    
+}
+.signBox{
+    max-height: 450px;
+    max-width: 300px;
+    border: 2px solid #f0ffe8;
+    padding: 25px;
+    background-color: #f4feff;
+    margin-top: 41px;
+}
+.qoutes{
+    padding: 25px;
+    
+}
